@@ -181,9 +181,15 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 
 ## Log Penggunaan AI
 
-| Tanggal | Tujuan | Prompt | Bagian yang Dibantu | Penjelasan Mandiri | Hasil Pengujian |
-|---|---|---|---|---|---|
-| 19 Okt 2026 | ... | "..." | ... | ... | ... |
+# AI Usage Log — Kopku POS
+
+| No. | AI Tool | Penggunaan | Hasil |
+|---|---|---|---|
+| 1 | ChatGPT | Membantu menyusun ide dan deskripsi proyek Kopku POS. | Deskripsi proyek dan tujuan pengembangan. |
+| 2 | ChatGPT | Membantu mengidentifikasi fitur utama aplikasi kasir. | Daftar fitur login, dashboard, manajemen produk, stok, dan transaksi. |
+| 3 | ChatGPT | Membantu menyusun struktur dokumentasi proyek. | Rekomendasi struktur folder dan README.md. |
+| 4 | ChatGPT | Membantu memberikan saran penulisan dokumentasi wireframe. | Dokumentasi rancangan antarmuka berdasarkan desain Figma yang sudah tersedia. |
+| 5 | ChatGPT | Membantu menjelaskan cara menampilkan gambar pada README.md menggunakan Markdown. | Contoh kode untuk menampilkan gambar wireframe di GitHub. |
 
 <p align="center">
   <strong>Kopku</strong><br>

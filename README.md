@@ -19,6 +19,7 @@
 
 - **Project:** Kopku
 - **Course:** Pemrograman Berbasis Web (PBW)
+- Repositori tautan: tajuddinachmad/Kopku
 - **Author/team:**
   1. Tajuddin Achmad - (A11.2025.1658)
   2. Keyla Azzahra Mefia - (A11.2025.16533)
@@ -168,7 +169,18 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 
 ---
 
+### Preview Wireframe
+
+**Login**
+
+![Wireframe Login](assets/images/wireframes/Login.jpg)
+
+**Dashboard, Daftar Data, dan Form**
+
+![Wireframe Dashboard, Daftar Data, dan Form](assets/images/wireframes/Kopify-wireframe.jpg)
 ![Dashboard Kopku](assets/images/wireframes/dashboard.png)
+
+---
 
 <p align="center">
   <strong>Kopku</strong><br>

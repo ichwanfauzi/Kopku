@@ -21,7 +21,7 @@
 - **Course:** Pemrograman Berbasis Web (PBW)
 - Repositori tautan: tajuddinachmad/Kopku
 - **Author/team:**
-  1. Tajuddin Achmad - (A11.2025.1658)
+  1. Tajuddin Achmad - (A11.2025.16548)
   2. Keyla Azzahra Mefia - (A11.2025.16533)
   3. Cantik Indah Lestari - (A11.2025.16139)
 

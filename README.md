@@ -164,12 +164,12 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 
 **Login**
 
-![Wireframe Login](assets/wireframes/Login.png)
+![Wireframe Login](assets/wireframe/Login.png)
 
 **Dashboard, Daftar Data, dan Form**
 
-![Wireframe Dashboard, Daftar Data, dan Form](assets/wireframes/Dashboard.jpg)
-![Dashboard Kopku](assets/images/wireframes/dashboard.png)
+![Wireframe Dashboard, Daftar Data, dan Form](assets/wireframe/Dashboard.jpg)
+![Dashboard Kopku](assets/images/wireframes/DaftarProduk.png)
 
 ---
 

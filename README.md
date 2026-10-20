@@ -164,14 +164,27 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 
 **Login**
 
-![Wireframe Login](assets/images/wireframes/Login.jpg)
+![Wireframe Login](assets/wireframes/Login.png)
 
 **Dashboard, Daftar Data, dan Form**
 
-![Wireframe Dashboard, Daftar Data, dan Form](assets/images/wireframes/Kopify-wireframe.jpg)
+![Wireframe Dashboard, Daftar Data, dan Form](assets/wireframes/Dashboard.jpg)
 ![Dashboard Kopku](assets/images/wireframes/dashboard.png)
 
 ---
+
+## Pengembangan Opsional
+
+1. **Peringatan stok menipis:** menjawab masalah barang habis saat ramai.
+2. **Cetak struk sederhana:** memberi bukti pembayaran untuk pelanggan.
+
+---
+
+## Log Penggunaan AI
+
+| Tanggal | Tujuan | Prompt | Bagian yang Dibantu | Penjelasan Mandiri | Hasil Pengujian |
+|---|---|---|---|---|---|
+| 19 Okt 2026 | ... | "..." | ... | ... | ... |
 
 <p align="center">
   <strong>Kopku</strong><br>

@@ -75,11 +75,6 @@ Pencatatan penjualan dan stok secara manual berisiko menyebabkan data sulit dite
 - Rencana pencarian/filter dan pagination dengan jQuery AJAX.
 - Tampilan tanggal dan waktu serta validasi formulir.
 
-## Batasan Ruang Lingkup
-- Fokus awal pada produk yang dijual per unit, seperti minuman jadi, pastry, atau produk kemasan.
-- Pengelolaan bahan baku berbasis resep tidak termasuk ruang lingkup awal.
-- Pengerjaan mengikuti milestone perkuliahan. Milestone 1 memprioritaskan perencanaan dan dokumentasi.
-
 ## 🧰 Planned Tech Stack
 
 Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web.
@@ -114,7 +109,7 @@ Lihat [`docs/wireframe.md`](docs/wireframe.md) untuk pemetaan kebutuhan ke desai
 Kopku/
 ├── assets/
 │   └── images/
-│       └── wireframes/       # Aset/screenshot desain yang sudah tersedia
+│       └── wireframes/       
 ├── css/
 ├── docs/
 │   ├── proposal.md
@@ -171,15 +166,9 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 - [Wireframe Reference](docs/wireframe.md) — pemetaan kebutuhan ke desain Figma yang sudah ada.
 - [Collaboration Guide](docs/collaboration.md) — usulan alur kerja branch, commit, dan pull request.
 
-## Catatan Penggunaan AI
-Catat penggunaan AI secara jujur sesuai format tugas. Anggota kelompok tetap perlu memahami, meninjau, dan menguji hasil sebelum menggabungkannya.
-
 ---
 
 <p align="center">
   <strong>Kopku</strong><br>
   <sub>Brew better workflows. Track every product. Build incrementally.</sub>
 </p>
-
-## Catatan Penggunaan AI
-Catat penggunaan AI secara jujur sesuai format tugas. Anggota kelompok tetap perlu memahami, meninjau, dan menguji hasil sebelum menggabungkannya.

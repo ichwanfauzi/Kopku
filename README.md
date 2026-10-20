@@ -48,7 +48,7 @@ Pencatatan penjualan dan stok secara manual berisiko menyebabkan data sulit dite
 | **Admin/Kasir** | Mengelola produk, kategori, stok, pencatatan penjualan, dan riwayat transaksi sesuai hak akses. |
 | **Pemilik usaha** | Memantau ringkasan penjualan dan stok dengan akses baca sesuai rancangan. |
 
-# ✨ Planned Features
+## ✨ Planned Features
 
 ### 📦 Product & Inventory
 

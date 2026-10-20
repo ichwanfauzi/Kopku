@@ -15,7 +15,16 @@
 
 ---
 
-## Tentang Proyek
+## 👤 Project Information
+
+- **Project:** Kopku
+- **Course:** Pemrograman Berbasis Web (PBW)
+- **Author/team:**
+  1. Tajuddin Achmad - (A11.2025.1658)
+  2. Keyla Azzahra Mefia - (A11.2025.16533)
+  3. Cantik Indah Lestari - (A11.2025.16139)
+
+## 🧾 Overview
 Kopku adalah rancangan aplikasi web kasir dan pengelolaan stok sederhana untuk kedai kopi kecil. Aplikasi direncanakan untuk membantu pencatatan transaksi, pengelolaan produk, pemantauan stok, dan penyajian ringkasan penjualan.
 
 **Status Milestone 1:** fokus pada dokumentasi kebutuhan, rancangan antarmuka yang sudah tersedia, struktur awal repository, dan kolaborasi Git. Fitur yang tercantum di bawah ini masih merupakan rencana, bukan klaim bahwa implementasinya sudah selesai.
@@ -162,18 +171,9 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 - [Project Proposal](docs/proposal.md) — latar belakang, rumusan masalah, tujuan, pengguna, dan ruang lingkup.
 - [Wireframe Reference](docs/wireframe.md) — pemetaan kebutuhan ke desain Figma yang sudah ada.
 - [Collaboration Guide](docs/collaboration.md) — usulan alur kerja branch, commit, dan pull request.
-- 
+
 ## Catatan Penggunaan AI
 Catat penggunaan AI secara jujur sesuai format tugas. Anggota kelompok tetap perlu memahami, meninjau, dan menguji hasil sebelum menggabungkannya.
-
-## 👤 Project Information
-
-- **Project:** Kopku
-- **Course:** Pemrograman Berbasis Web (PBW)
-- **Author/team:**
-  1. Tajuddin Achmad
-  2. Keyla Azzahra Mefia
-  3. Cantik Indah Lestari
 
 ---
 

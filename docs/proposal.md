@@ -52,8 +52,7 @@ HTML, CSS, JavaScript, PHP Native, MySQL/MariaDB, jQuery AJAX, Git, dan GitHub. 
 
 ## 9. Rancangan Antarmuka
 Desain Figma kelompok yang sudah ada tetap digunakan, tidak dibuat ulang:
-https://www.figma.com/design/JMX0XHg22baBGuoNv5gIRY/Kopku-POS---all-design?node-id=0-1&p=f&t=dVEkT8cJKUEWqHR0-0
-
+https://www.figma.com/make/WRgAqIMfwf1VYrMWDuww2E/Redesign-Kopku-POS-Interface?fullscreen=1&t=i5cfjRPlhNYbTuTP-1&code-node-id=0-6
 Lihat [wireframe.md](wireframe.md) untuk pemetaan kebutuhan.
 
 ## 10. Rencana Pengerjaan Milestone 1

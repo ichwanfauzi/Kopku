@@ -168,6 +168,8 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 
 ---
 
+![Dashboard Kopku](assets/images/wireframes/dashboard.png)
+
 <p align="center">
   <strong>Kopku</strong><br>
   <sub>Brew better workflows. Track every product. Build incrementally.</sub>

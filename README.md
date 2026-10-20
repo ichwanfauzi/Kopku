@@ -140,15 +140,6 @@ git clone https://github.com/tajuddinachmad/Kopku.git
 cd Kopku
 ```
 
-## Checklist Milestone 1
-- [x] Ide proyek ditentukan.
-- [x] Latar belakang dan target pengguna didokumentasikan.
-- [x] Rencana fitur dan batasan ditulis.
-- [x] Menggunakan Figma kelompok yang sudah tersedia.
-- [x] Memastikan struktur awal dan semua file dokumentasi ada di repository.
-- [x] Memastikan minimal tiga commit bermakna sesuai ketentuan tugas.
-- [x] Meninjau hasil bersama seluruh anggota.
-
 ## 📝 Planned Git Commits
 
 Contoh urutan commit untuk perubahan yang benar-benar dilakukan:

@@ -80,7 +80,6 @@ Pencatatan penjualan dan stok secara manual berisiko menyebabkan data sulit dite
 - Pengelolaan bahan baku berbasis resep tidak termasuk ruang lingkup awal.
 - Pengerjaan mengikuti milestone perkuliahan. Milestone 1 memprioritaskan perencanaan dan dokumentasi.
 
-
 ## 🧰 Planned Tech Stack
 
 Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web.
@@ -98,7 +97,7 @@ Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web.
 
 ## 🖼️ Initial Wireframes
 
-**Tautan Figma:** figma.com/make/WRgAqIMfwf1VYrMWDuww2E/Redesign-Kopku-POS-Interface?code-node-id=0-6&t=KvXBsolCyCpWkiq4-0&fullscreen=1
+**Tautan Figma:** <figma.com/make/WRgAqIMfwf1VYrMWDuww2E/Redesign-Kopku-POS-Interface?code-node-id=0-6&t=KvXBsolCyCpWkiq4-0&fullscreen=1>
 
 Wireframe awal perlu mencakup atau dapat dipetakan ke empat halaman inti Milestone 1:
 

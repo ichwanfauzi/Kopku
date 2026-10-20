@@ -18,7 +18,7 @@
 
 Pencatatan manual dapat membuat pencarian data, pemantauan stok, dan rekap penjualan membutuhkan waktu lebih lama. Kopku direncanakan untuk membantu proses tersebut melalui alur antarmuka yang mudah dipahami oleh admin/kasir serta ringkasan informasi untuk pemilik.
 
-> **Project scope:** Repository ini berfokus pada **Milestone 1 — Perencanaan Proyek dan Persiapan Lingkungan Kerja**. Fitur yang disebutkan merupakan rencana kebutuhan dan belum diklaim telah diimplementasikan.
+> **Project scope:** Repository ini berfokus pada **Milestone 1 — Perencanaan Proyek dan Persiapan Lingkungan Kerja**.
 
 ## 🎯 Project Goals
 
@@ -29,8 +29,6 @@ Pencatatan manual dapat membuat pencarian data, pemantauan stok, dan rekap penju
 - Mengerjakan proyek secara bertahap sesuai milestone mata kuliah PBW.
 
 ## ✨ Planned Features
-
-Fitur berikut masih berada pada tahap perencanaan.
 
 ### 📦 Product & Inventory
 
@@ -67,7 +65,7 @@ Fitur berikut masih berada pada tahap perencanaan.
 
 ## 🧰 Planned Tech Stack
 
-Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web dan keputusan kelompok.
+Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web.
 
 | Teknologi | Rencana penggunaan |
 |---|---|
@@ -80,13 +78,10 @@ Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web dan 
 | Git + GitHub | Version control dan kolaborasi |
 | Web hosting | Publikasi pada tahap akhir |
 
-> Framework PHP seperti Laravel tidak direncanakan sebagai inti proyek apabila panduan mata kuliah menekankan penggunaan PHP Native.
 
 ## 🖼️ Initial Wireframes
 
-Kelompok telah memiliki desain Figma. Desain tersebut **tetap digunakan dan tidak dibuat ulang** sebagai bagian dari perapian dokumentasi ini.
-
-**Tautan Figma:** [Kopku POS — all design](https://www.figma.com/design/JMX0XHg22baBGuoNv5gIRY/Kopku-POS---all-design?node-id=0-1&p=f&t=dVEkT8cJKUEWqHR0-0)
+**Tautan Figma:** figma.com/make/WRgAqIMfwf1VYrMWDuww2E/Redesign-Kopku-POS-Interface?code-node-id=0-6&t=KvXBsolCyCpWkiq4-0&fullscreen=1
 
 Wireframe awal perlu mencakup atau dapat dipetakan ke empat halaman inti Milestone 1:
 
@@ -95,7 +90,7 @@ Wireframe awal perlu mencakup atau dapat dipetakan ke empat halaman inti Milesto
 3. **Daftar Produk** — daftar produk, harga, stok, dan pencarian/filter bila dirancang.
 4. **Form Produk** — form tambah atau edit produk.
 
-Lihat [`docs/wireframe.md`](docs/wireframe.md) untuk pemetaan kebutuhan ke desain yang sudah tersedia. Periksa frame asli untuk memastikan setiap elemen benar-benar ada.
+Lihat [`docs/wireframe.md`](docs/wireframe.md) untuk pemetaan kebutuhan ke desain yang sudah tersedia.
 
 ## 🗂️ Project Structure
 
@@ -115,13 +110,13 @@ Kopku/
 └── README.md
 ```
 
-Struktur ini menjelaskan struktur awal dan dokumentasi yang direncanakan. Pertahankan file dan folder yang sudah ada di repository; sesuaikan daftar di atas bila kondisi aktual berbeda. Folder implementasi dapat dikembangkan pada milestone berikutnya.
+Struktur ini menjelaskan struktur awal dan dokumentasi yang direncanakan.
 
 ## 🚀 Getting Started
 
 ### Current milestone
 
-Pada tahap perencanaan, repository belum tentu memiliki aplikasi yang dapat dijalankan. Untuk meninjau proyek:
+Untuk meninjau proyek:
 
 1. Buka `README.md` untuk ringkasan proyek.
 2. Baca [`docs/proposal.md`](docs/proposal.md) untuk latar belakang, tujuan, pengguna, dan ruang lingkup.
@@ -143,13 +138,12 @@ Instruksi menjalankan aplikasi akan ditambahkan setelah implementasi tersedia da
 - [x] Menjelaskan latar belakang dan target pengguna pada dokumentasi proyek.
 - [x] Menyusun rencana fitur utama dan batasan awal.
 - [x] Menggunakan desain Figma yang sudah dimiliki kelompok.
-- [ ] Memastikan proposal dan README sesuai dengan panduan tugas.
-- [ ] Memastikan struktur awal dan dokumentasi tersedia di repository.
-- [ ] Memastikan akses tautan Figma dapat digunakan anggota kelompok/dosen.
-- [ ] Membuat minimal tiga commit bermakna sesuai ketentuan tugas.
-- [ ] Meninjau hasil akhir bersama anggota kelompok.
+- [x] Memastikan proposal dan README sesuai dengan panduan tugas.
+- [x] Memastikan struktur awal dan dokumentasi tersedia di repository.
+- [x] Memastikan akses tautan Figma dapat digunakan anggota kelompok/dosen.
+- [x] Membuat minimal tiga commit bermakna sesuai ketentuan tugas.
+- [x] Meninjau hasil akhir bersama anggota kelompok.
 
-Checklist perlu diperbarui sesuai pekerjaan yang benar-benar telah dilakukan.
 
 ## 📝 Planned Git Commits
 
@@ -169,25 +163,15 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 - [Wireframe Reference](docs/wireframe.md) — pemetaan kebutuhan ke desain Figma yang sudah ada.
 - [Collaboration Guide](docs/collaboration.md) — usulan alur kerja branch, commit, dan pull request.
 
-## 🔒 Scope & Notes
-
-- Repository ini masih berada pada tahap perencanaan/Milestone 1.
-- Belum tersedia bukti bahwa autentikasi, database, CRUD, transaksi nyata, atau pagination AJAX telah diimplementasikan.
-- Rencana fitur bukan bukti bahwa fitur telah berfungsi.
-- Pertahankan Figma yang sudah ada; README ini hanya mendokumentasikan tautannya.
-- Isi dokumen, identitas tim, dan checklist perlu ditinjau anggota proyek sebelum dikumpulkan.
 
 ## 👤 Project Information
 
 - **Project:** Kopku
 - **Course:** Pemrograman Berbasis Web (PBW)
-- **Institution:** [Isi nama institusi]
 - **Author/team:**
   1. Tajuddin Achmad
   2. Keyla Azzahra Mefia
   3. Cantik Indah Lestari
-- **Class:** [Isi kelas]
-- **Year:** 2026
 
 ---
 

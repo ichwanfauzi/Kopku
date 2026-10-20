@@ -25,6 +25,7 @@
   2. Keyla Azzahra Mefia - (A11.2025.16533)
   3. Cantik Indah Lestari - (A11.2025.16139)
 
+
 ## 🧾 Overview
 Kopku adalah rancangan aplikasi web kasir dan pengelolaan stok sederhana untuk kedai kopi kecil. Aplikasi direncanakan untuk membantu pencatatan transaksi, pengelolaan produk, pemantauan stok, dan penyajian ringkasan penjualan.
 
@@ -47,6 +48,7 @@ Pencatatan penjualan dan stok secara manual berisiko menyebabkan data sulit dite
 |---|---|
 | **Admin/Kasir** | Mengelola produk, kategori, stok, pencatatan penjualan, dan riwayat transaksi sesuai hak akses. |
 | **Pemilik usaha** | Memantau ringkasan penjualan dan stok dengan akses baca sesuai rancangan. |
+
 
 ## ✨ Planned Features
 
@@ -76,6 +78,7 @@ Pencatatan penjualan dan stok secara manual berisiko menyebabkan data sulit dite
 - Rencana pencarian/filter dan pagination dengan jQuery AJAX.
 - Tampilan tanggal dan waktu serta validasi formulir.
 
+
 ## 🧰 Planned Tech Stack
 
 Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web.
@@ -91,6 +94,7 @@ Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web.
 | Git + GitHub | Version control dan kolaborasi |
 | Web hosting | Publikasi pada tahap akhir |
 
+
 ## 🖼️ Initial Wireframes
 
 **Tautan Figma:** (figma.com/make/WRgAqIMfwf1VYrMWDuww2E/Redesign-Kopku-POS-Interface?code-node-id=0-6&t=KvXBsolCyCpWkiq4-0&fullscreen=1)
@@ -103,6 +107,7 @@ Wireframe awal perlu mencakup atau dapat dipetakan ke empat halaman inti Milesto
 4. **Form Produk** — form tambah atau edit produk.
 
 Lihat [`docs/wireframe.md`](docs/wireframe.md) untuk pemetaan kebutuhan ke desain yang sudah tersedia.
+
 
 ## 🗂️ Project Structure
 
@@ -140,6 +145,7 @@ git clone https://github.com/tajuddinachmad/Kopku.git
 cd Kopku
 ```
 
+
 ## 📝 Planned Git Commits
 
 Contoh urutan commit untuk perubahan yang benar-benar dilakukan:
@@ -151,6 +157,7 @@ docs: document existing wireframes and collaboration workflow
 ```
 
 Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum perubahan terkait benar-benar ada pada repository.
+
 
 ## 📚 Documentation
 
@@ -179,9 +186,8 @@ Commit harus dibuat secara bertahap. Jangan menggunakan pesan tersebut sebelum p
 
 ---
 
-## Log Penggunaan AI
 
-# AI Usage Log — Kopku POS
+## Log Penggunaan AI
 
 | No. | AI Tool | Penggunaan | Hasil |
 |---|---|---|---|

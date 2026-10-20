@@ -97,7 +97,7 @@ Teknologi yang direncanakan mengikuti panduan PjBL Pemrograman Berbasis Web.
 
 ## 🖼️ Initial Wireframes
 
-**Tautan Figma:** (figma.com/make/WRgAqIMfwf1VYrMWDuww2E/Redesign-Kopku-POS-Interface?code-node-id=0-6&t=KvXBsolCyCpWkiq4-0&fullscreen=1)
+**Tautan Figma:** [Lihat Desain Kopku](https://www.figma.com/make/WRgAqIMfwf1VYrMWDuww2E/Redesign-Kopku-POS-Interface?code-node-id=0-6&t=KvXBsolCyCpWkiq4-0&fullscreen=1)
 
 Wireframe awal perlu mencakup atau dapat dipetakan ke empat halaman inti Milestone 1:
 
